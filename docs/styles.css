@@ -21,7 +21,7 @@ body {
 }
 header {
   font-family: "Helvetica Black";
-  color: 896b1d;
+  color: #896b1d;
   font-size: 60pt;
   grid-column: span 3;
   height: 100px;
